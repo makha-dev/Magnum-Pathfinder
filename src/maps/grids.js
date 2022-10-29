@@ -1,4 +1,5 @@
 // eslint-disable-next-line import/no-anonymous-default-export
+// The following map is the matrix representation of Magnum Supermarket at our University
 const maps = {
     'magnum': {
         row: 46,
